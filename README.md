@@ -14,5 +14,6 @@ Michigan 대학의 Justin Johnson 교수님의 강의를 공부하는 형식입�
 
 ## Assignment
 [Chapter 5: 이미지 처리 능력이 탁월한 CNN](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch5.%20CNN.ipynb) \
-[Chapter 6: 사람의 지도 없이 학습하는 오토인코더](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch6.%20Autoencoder.ipynb)
-[Chapter 7: 순차적인 데이터를 처리하는 RNN](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch7.%20RNN.ipynb)
+[Chapter 6: 사람의 지도 없이 학습하는 오토인코더](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch6.%20Autoencoder.ipynb) \
+[Chapter 7: 순차적인 데이터를 처리하는 RNN](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch7.%20RNN.ipynb) \
+[Chapter 9: 경쟁하며 학습하는 GAN](https://github.com/Koo-BM/Freshman_Seminar_2023/blob/main/Ch9.%20GAN.ipynb)
